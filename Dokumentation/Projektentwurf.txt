@@ -1,0 +1,14 @@
+==============================================================================
+=== [Projektbeschreibung], v_[1], [Datum im Format 2016-10-09] ===
+==============================================================================
+
+Das Projekt "Lernsoftware (Instrument erlernen)" handelt sich um ein Programm, welches Anfänger und Fortgeschrittene dabei unterstützen soll, ein Instrument und das dazugehörige Wissen zu erlernen. Hier wird sich aufgrund der vielen Instrumente zunächst nur auf die Gitarre beschränkt.
+Angefangen mit der richtigen Haltung bis hin zum spielen eines Liedes, wird dem Nutzer über Zeit, dass Grundwissen näher gebracht. Hierbei hat der Nutzer die Möglichkeit, in seinem eigenen Tempo, die Lerninhalte zu verinnerlichen.
+
+- 
+
+
+
+==============================================================================
+=== [Titel des Eintrags], v_[Versionsnummer], [Datum im Format jjjj-mm-tt] ===
+==============================================================================
