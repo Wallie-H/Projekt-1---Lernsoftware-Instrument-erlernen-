@@ -7,8 +7,8 @@ Angefangen mit der richtigen Haltung bis hin zum spielen eines Liedes, wird dem 
 
 - 
 
+===================================
+=== Feedback Alpers, 2016-10-11 ===
+===================================
 
-
-==============================================================================
-=== [Titel des Eintrags], v_[Versionsnummer], [Datum im Format jjjj-mm-tt] ===
-==============================================================================
+Momentan geben Sie damit nur die Projektidee wieder, haben aber noch keine eigenen Inhalte hinzugefügt.
