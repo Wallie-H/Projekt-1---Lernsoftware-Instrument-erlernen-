@@ -1,15 +1,20 @@
 ==============================================================================
-=== [Projektbeschreibung], v_[2], [Datum im Format 2016-10-16] ===
+=== [Projektbeschreibung], v_[3], [Datum im Format 2016-10-24] ===
 ==============================================================================
 
 Das Projekt "Lernsoftware (Instrument erlernen)" handelt sich um ein Programm, welches Anfänger und Fortgeschrittene dabei unterstützen soll, ein Instrument und das dazugehörige Wissen zu erlernen. Hier wird sich aufgrund der vielen Instrumente zunächst nur auf die Gitarre beschränkt.
 Angefangen mit der richtigen Haltung bis hin zum spielen eines Liedes, wird dem Nutzer über Zeit, dass Grundwissen näher gebracht. Hierbei hat der Nutzer die Möglichkeit, in seinem eigenen Tempo, die Lerninhalte zu verinnerlichen.
 
-- Einleitung = Richtige Sitzhaltung und Griffart als Text und Bild 
-- (Da erstmal Gitarre) Das Stimmen der Gitarre, Kaufberatung des Stimmgeräts als Link und ein Video zum Stimmen ohne Stimmgerät
-- Die ersten Akkorde/ ablesen der Noten in einfacher Form als Text und Bild
-- Das erste Lied als Video und Text
-- Weitere Akkorde als Text und Bild
+(Mögliche) Programmteile der Software sind:
+
+- Hauptmenü; Auswahl zwischen diversen Musikinstrumenten (In unserem Fall, erstmal die Gitarre)
+- Aufgeteilt in Kapitel:
+  - Kapitel 1: Einleitung = Richtige Sitzhaltung und Griffart als Text und Bild 
+  - Kapitel 2: (Da erstmal Gitarre) Das Stimmen der Gitarre, Kaufberatung des Stimmgeräts als Link und ein Video zum Stimmen ohne    
+    Stimmgerät
+  - Kapitel 3: Die ersten Akkorde/ ablesen der Noten in einfacher Form als Text und Bild
+  - Kapitel 4: Das erste Lied als Video und Text
+  - Kapitel 5: Weitere Akkorde als Text und Bild
 
 ===================================
 === Feedback Alpers, 2016-10-11 ===
