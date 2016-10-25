@@ -1,5 +1,5 @@
 ==============================================================================
-=== [Projektbeschreibung], v_[3], [Datum im Format 2016-10-24] ===
+=== [Projektbeschreibung], v_[4], [Datum im Format 2016-10-25] ===
 ==============================================================================
 
 Das Projekt "Lernsoftware (Instrument erlernen)" handelt sich um ein Programm, welches Anfänger und Fortgeschrittene dabei unterstützen soll, ein Instrument und das dazugehörige Wissen zu erlernen. Hier wird sich aufgrund der vielen Instrumente zunächst nur auf die Gitarre beschränkt.
@@ -7,14 +7,20 @@ Angefangen mit der richtigen Haltung bis hin zum spielen eines Liedes, wird dem 
 
 (Mögliche) Programmteile der Software sind:
 
-- Hauptmenü; Auswahl zwischen diversen Musikinstrumenten (In unserem Fall, erstmal die Gitarre)
-- Aufgeteilt in Kapitel:
-  - Kapitel 1: Einleitung = Richtige Sitzhaltung und Griffart als Text und Bild 
-  - Kapitel 2: (Da erstmal Gitarre) Das Stimmen der Gitarre, Kaufberatung des Stimmgeräts als Link und ein Video zum Stimmen ohne    
-    Stimmgerät
-  - Kapitel 3: Die ersten Akkorde/ ablesen der Noten in einfacher Form als Text und Bild
-  - Kapitel 4: Das erste Lied als Video und Text
-  - Kapitel 5: Weitere Akkorde als Text und Bild
+-- Hauptmenü; Auswahl zwischen diversen Musikinstrumenten, hierbei kann der Nutzer sein gewünschtes Instrument frei wählen (In unserem                 Fall, erstmal die Gitarre).
+
+-- Log-In Maske; Der Nutzer hat die Möglichkeit sich ein Profil anzulegen um Fortschritte abzuspeichern (Siehe unten Lern- und                            Zeitplaner)
+
+-- Menü (des Instruments - Gitarre); Der Nutzer kann sich die Kapitel anschauen die er möchte. Vorteil = Da jeder Individuell schnell                                        lernt.
+  - Aufgeteilt in Kapitel:
+    - Kapitel 1: Einleitung = Richtige Sitzhaltung und Griffart als Text und Bild 
+    - Kapitel 2: (Da erstmal Gitarre) Das Stimmen der Gitarre, Kaufberatung des Stimmgeräts als Link und ein Video zum Stimmen ohne    
+      Stimmgerät
+    - Kapitel 3: Die ersten Akkorde/ ablesen der Noten in einfacher Form als Text und Bild
+    - Kapitel 4: Das erste Lied als Video und Text
+    - Kapitel 5: Weitere Akkorde als Text und Bild
+    
+-- Lern- und Zeitplaner; Der Nutzer kann sich einen Lernplan erstellen, in dem er Fristen für gewünschte Zeiten angibt. Diese erinnern                            den Nutzer wann er was zu erledigen hat. Möglich wäre auch eine Anzeige, in dem der Nutzer sehen kann, wie                              seine gewünschte Zeitangabe war und die tatsächlich gebrauchte Zeit
 
 ===================================
 === Feedback Alpers, 2016-10-11 ===
