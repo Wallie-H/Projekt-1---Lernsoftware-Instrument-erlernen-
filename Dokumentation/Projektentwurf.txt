@@ -26,6 +26,4 @@ Momentan geben Sie damit nur die Projektidee wieder, haben aber noch keine eigen
 === Feedback Alpers, 2016-10-25 ===
 ===================================
 
-Das sieht alles noch aus wie das Inhaltsverzeichnis eines Lehrbuches. Ihre Aufgabe besteht darin, sich zu überlegen, woraus eine Software bestehen soll.
-
-Außerdem wird nach Durchsicht Ihres GitHub-Accounts deutlich, dass Sie kaum am Projekt arbeiten. Zurzeit entspricht der erkennbare Arbeitsaufwand weniger als einer Stunde in fünf Wochen. Wenn Sie nicht umgehend damit beginnen, das Projekt ernsthaft auszuarbeiten wird das nächste Feedback der Fehlversuch sein.
+Korrektur des gerade versandten Feedbacks, siehe Gesprächsnotizen vom 17. Okt..
