@@ -7,9 +7,9 @@ Angefangen mit der richtigen Haltung bis hin zum spielen eines Liedes, wird dem 
 
 (Mögliche) Programmteile der Software sind:
 
--- Hauptmenü; Auswahl zwischen diversen Musikinstrumenten, hierbei kann der Nutzer sein gewünschtes Instrument frei wählen (In unserem Fall, erstmal die Gitarre).
-
 -- Log-In Maske; Der Nutzer hat die Möglichkeit sich ein Profil anzulegen um Fortschritte abzuspeichern (Siehe unten Lern- und Zeitplaner)
+
+-- Hauptmenü; Auswahl zwischen diversen Musikinstrumenten, hierbei kann der Nutzer sein gewünschtes Instrument frei wählen (In unserem Fall, erstmal die Gitarre).
 
 -- Menü (des Instruments - Gitarre); Der Nutzer kann sich die Kapitel anschauen die er möchte. Vorteil = Da jeder Individuell schnell lernt.
   - Aufgeteilt in Kapitel:
