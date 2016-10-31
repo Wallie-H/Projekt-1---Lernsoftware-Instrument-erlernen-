@@ -21,6 +21,15 @@
 03_03 type=schaltflaeche / Kapitel 3
 03_04 type=schaltflaeche / Kapitel 4
 03_05 type=schaltflaeche / Kapitel 5
+
+== Lern- und Zeitplaner ==
+-- 04.1 input/datum --
+04_01 type=date / Datum als Tag,Monat,Jahr
+-- 04.2 input/schaltflaeche --
+04_02 type=schaltflaeche / Tag,Monat,Jahr
+04_03 type=schaltflaeche / Kapitel markieren wann was erledigt werden soll
+-- 04.3 input/text --
+04_03 type=text / Notizen fuer diverses
 ==================
 
 Erstmal klein gehalten um zu schauen ob Sie sich das so vorgestellt haben! Werde noch mehr ergänzen!
