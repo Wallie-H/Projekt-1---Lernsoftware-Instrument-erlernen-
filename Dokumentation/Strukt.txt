@@ -12,7 +12,7 @@
 == Hauptmenue ==
 -- 02 input/schaltflaeche
 02_01 type=schaltflaeche / Kurs: Gitarre
->>Zun�chst nur Gitarre<<
+>>Zunächst nur Gitarre<<
 
 == Gitarren Menue ==
 -- 03 input/schaltflaeche
@@ -21,5 +21,6 @@
 03_03 type=schaltflaeche / Kapitel 3
 03_04 type=schaltflaeche / Kapitel 4
 03_05 type=schaltflaeche / Kapitel 5
-
 ==================
+
+Erstmal klein gehalten um zu schauen ob Sie sich das so vorgestellt haben! Werde noch mehr ergänzen!
