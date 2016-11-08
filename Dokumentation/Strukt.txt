@@ -10,17 +10,21 @@
 01_04 type=text / Passwort
 
 == Hauptmenue ==
--- 02 input/schaltflaeche
+-- 02 input/schaltflaeche --
 02_01 type=schaltflaeche / Kurs: Gitarre
 >>Zunächst nur Gitarre<<
 
 == Gitarren Menue ==
--- 03 input/schaltflaeche
+-- 03.1 input/schaltflaeche --
 03_01 type=schaltflaeche / Kapitel 1
 03_02 type=schaltflaeche / Kapitel 2
 03_03 type=schaltflaeche / Kapitel 3
 03_04 type=schaltflaeche / Kapitel 4
 03_05 type=schaltflaeche / Kapitel 5
+-- 03.2 -/Image --
+03_06 type=Image / Kapitel 1, Sitzhaltung und Griffart
+03_07 type=Image / Kapitel 3, Akkorde
+03_08 type=Image / Kapitel 5, Akkorde
 
 == Lern- und Zeitplaner ==
 -- 04.1 input/datum --
