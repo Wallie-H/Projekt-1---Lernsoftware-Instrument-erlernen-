@@ -1,1 +1,16 @@
----Microservices_de---
+===================================================
+===         Microservices, [08.11.2016]         ===
+===================================================
+
+
+== [I]   - [Log_In_Maske] ==
+== [II]  - [Hauptmenue] ==
+== [III] - [Gitarren_Menue_Schaltflaeche] ==
+== [VI]  - [Gitarren_Menue_Image] ==
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+== Notizen ==
+- Log-In Maske, type=text; Es wird zwar nur am Anfang benötigt, aber für den Fall der Fälle
+- Schaltflaechen, vorallem im Gitarren Menue;
+- Gitarren Menue, type=Image; Da mehrmals Bilder von Akkorden verwendet wird
