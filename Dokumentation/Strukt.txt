@@ -34,6 +34,25 @@
 04_03 type=schaltflaeche / Kapitel markieren wann was erledigt werden soll
 -- 04.3 input/text --
 04_03 type=text / Notizen fuer diverses
-==================
+==================================================
 
 Erstmal klein gehalten um zu schauen ob Sie sich das so vorgestellt haben! Werde noch mehr ergänzen!
+
+
+===================================================
+===         Microservices, [08.11.2016]         ===
+===================================================
+
+
+== [I]   - [Log_In_Maske] ==
+== [II]  - [Hauptmenue] ==
+== [III] - [Gitarren_Menue_Schaltflaeche] ==
+== [VI]  - [Gitarren_Menue_Image] ==
+
+
+===============================================
+===         Ansichten, [14.11.2016]         ===
+===============================================
+- Schaltflaechen fuer Kapiteln und Schaltflaechen im Lern- und Zeitplaner
+- Image für Kapiteln
+- Text in der Log-In Maske und Lern- und Zeitplaner
